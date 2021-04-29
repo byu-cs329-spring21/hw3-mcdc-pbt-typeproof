@@ -66,7 +66,7 @@ Write an stateful PBT for the `edu.byu.cs329.hashtable.LLHashMap` implementation
 
 ## Type Checking
 
-5) Write by hand a type proof for `edu.byu.cs329.hashtable.LlHashTable.get`. The proof should be in the form of a tree in a file in the same directory as this *README*. Name each file by the problem number. Uploading a picture of your paper-pencil solution is fine (and preferred). Assume the existence of the environment that does the right thing. 
+5) Type or write by hand a type proof for `edu.byu.cs329.hashtable.LlHashTable.get`. The proof should be in the form of a tree in a file in the same directory as this *README*. Name each file by the problem number. Uploading a picture of your paper-pencil solution is fine (and preferred). Assume the existence of the environment that does the right thing. 
 
 ## Optional
 
