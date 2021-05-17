@@ -1,8 +1,6 @@
 # Objectives
 
   * Write tests to accomplish MC/DC coverage
-  * Implement a stateless PBT framework
-  * Implement a stateful PBT framework
   * Generate by hand static type proof certificates for simple programs
 
 # Reading
