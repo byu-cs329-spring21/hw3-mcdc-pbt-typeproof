@@ -17,7 +17,7 @@ See the following in the [lecture notes](https://bitbucket.org/byucs329/byu-cs-3
 
 ## MC/DC Coverage
 
-1) Write a minimal number of tests to achieve MC/DC coverage for `edu.byu.cs329.mcdc.McDcTest.f`. Justify the final set of tests in the comments. Look it the `src/test` direction for the code to test. Make clear in the comments how the test input gives MC/DC coverage including a table for any decisions with more than one condition.
+1) Write a minimal number of tests to achieve MC/DC coverage for `edu.byu.cs329.mcdc.McDcTest.f`. Justify the final set of tests in the comments. Look in the `src/test` directory for the code. Make clear in the comments how the test input gives MC/DC coverage including a table for any decisions with more than one condition.
 
 2) Write a minimal number of tests to achieve MC/DC coverage for `edu.byu.cs329.mcdc.MergeSortMcDcTest.sort`. Justify the final set of tests in the comments. Make clear in the comments how the test input gives MC/DC coverage including a table for any decisions with more than one condition (e.g., the if-statement in the loop). What makes this problem hard is finding the inputs to exercise the needed condition values for the if-statement in the loop. Find the needed condition values, then find the input to give those values.
 
